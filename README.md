@@ -1,2 +1,2 @@
-# Writing-Scienti-c-Papers
+# Writing-Scientific-Papers
 Sharing writing skills.
