@@ -1,2 +1,2 @@
 # Writing-Scientific-Papers
-To sharing writing skills.
+To share writing skills.
