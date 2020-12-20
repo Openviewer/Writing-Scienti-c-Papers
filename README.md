@@ -15,4 +15,9 @@ To share writing skills.
 - [Nature：如何写出一个完美综述？](https://mp.weixin.qq.com/s/ixCESzAPxwclskmABO2jYg)
 
 ## File management software &amp; collaboration tools
-![FileM](https://mmbiz.qpic.cn/sz_mmbiz_png/4Coxww3Vbq4lKSNKF4w1d4X9Kibrt4yFibrKeZUlXEZ60BFShpVW2jalY2KA9UKJOwJQwQNoSGictERdcav6g8Irw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/4Coxww3Vbq4lKSNKF4w1d4X9Kibrt4yFibrKeZUlXEZ60BFShpVW2jalY2KA9UKJOwJQwQNoSGictERdcav6g8Irw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width = 40%/> 
+
+## Collaborative writing tools
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/4Coxww3Vbq4lKSNKF4w1d4X9Kibrt4yFib5v7xzLgpSX7vd7GcteSiaUeM4xZ9kPJgTpmkf5txnfgku43JYIFV94A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width = 40%/> 
+
+[Image sources](https://mp.weixin.qq.com/s/ixCESzAPxwclskmABO2jYg)
